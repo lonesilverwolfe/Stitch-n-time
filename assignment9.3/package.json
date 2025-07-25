@@ -1,0 +1,23 @@
+{
+  "name": "stitch-n-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "divisor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonesilverwolfe/Stitch-n-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lonesilverwolfe/Stitch-n-time/issues"
+  },
+  "homepage": "https://github.com/lonesilverwolfe/Stitch-n-time#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
